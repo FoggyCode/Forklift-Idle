@@ -1,1 +1,1 @@
-{name:"league" , season:"Alpha-1"}
+{name:"League" , season:"Alpha-1", description: "First season of Forklift Idle"}
